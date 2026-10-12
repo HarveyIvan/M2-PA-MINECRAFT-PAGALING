@@ -1,6 +1,8 @@
 # M2 PA - PAGALING
 
-**Minecraft: Desert Village at Sunset**\nHarvey Ivan Uy Pagaling
+**Minecraft: Desert Village at Sunset**
+
+Harvey Ivan Uy Pagaling
 
 ![Three.js recreation](preview.png)
 
